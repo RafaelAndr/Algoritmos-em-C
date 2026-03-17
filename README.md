@@ -14,6 +14,7 @@ Os seguintes algoritmos foram utilizados no desenvolvimento dos projetos:
 4. **Programação Dinâmica**
 5. **Busca em Cadeias**
 6. **Compressão**
+7. **Criptografia**
 
 ## 🎯 Objetivo
 
